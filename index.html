@@ -41,14 +41,19 @@
                                      display: flex; 
                                      flex-direction: row;
                                       }
+
+.article {
+    display: none;
+}
+
   </style>
   <body>
     <div class="sidebar">
       <ul>
-        <li><a href="/index.html">Inicio</a></li>
-        <li><a href="#">Perfil</a></li>
-        <li><a href="#">Configuración</a></li>
-        <li><a href="#">Ayuda</a></li>
+        <li><a class="item" href="/index.html">Inicio</a></li>
+        <li><a class="item" href="/index.html">Perfil</a></li>
+        <li><a class="item" href="/index.html">Configuración</a></li>
+        <li><a class="item" href="/index.html">Ayuda</a></li>
       </ul>
     </div>
     <div class="content">
@@ -57,4 +62,10 @@
       </div>
     </div>
   </body>
+
+  <script>
+
+ var items = document.getElementsByClassName("item");
+
+  </script>
 </html>
