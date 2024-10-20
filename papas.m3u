@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ahí Afuera" tvg-logo="" group-title="General"
+https://delivery-node-yrhohklc10mfxrgy.voe-network.net/engine/hls2/01/12495/mutuc1y2o4us_,n,.urlset/index-v1-a1.m3u8?t=v2MqBVFvs3rX3r0rStTsWaQrebQcoKpSMdhncgPY28k&s=1729437147&e=14400&f=62529800&node=delivery-node-yrhohklc10mfxrgy.voe-network.net&i=187.136&sp=2500&asn=8151
 #EXTINF:-1 tvg-id="Seirei Gensouki 2 CAP 2" tvg-logo="" group-title="General"
 https://sgtrnkvb1e.guardstorage.net/hls_3/D6cLI8bkMhCC7OvBBR-s_PKLErXes-sc1AEUQDtvARrXyxASBbt_EyRENHKfWiL7M0FFhf9p-M0AxEQPVOY95yG21LdATj0woQAeDUWkpyRsyQg-IBt-qK3JZzEVGFRrItPY-TqvT7gomsmeaUbIsC7Wkhp8-CWLa3fr4sZu5VZLiy6gevP7UDoC-FEtUt-fTs3uwcFQ7rDxtAznVKpibg/index-f3-v1-a1.m3u8?sig=9tW05uXveZ1ZbtE8mTBxxQ&expires=1729222294
 #EXTINF:-1 tvg-id="Seirei Gensouki 2 CAP 1" tvg-logo="" group-title="General"
